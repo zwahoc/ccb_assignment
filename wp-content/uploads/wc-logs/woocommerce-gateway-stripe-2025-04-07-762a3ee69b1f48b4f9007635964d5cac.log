@@ -1,0 +1,16 @@
+2025-04-07T06:22:18+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-07T06:58:58+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Express Checkout does not support free products.
+====End Log====
+
+
