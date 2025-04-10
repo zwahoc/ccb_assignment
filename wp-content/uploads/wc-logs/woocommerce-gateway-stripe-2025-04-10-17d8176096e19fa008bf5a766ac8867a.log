@@ -1,0 +1,384 @@
+2025-04-10T05:08:23+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:23+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:23+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:23+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 10003 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 10012 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:35+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:35+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:35+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:36+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:36+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:37+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:37+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:38+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:38+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:39+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:39+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:40+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:40+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:41+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T05:08:41+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:06+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:08+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:17+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => A valid URL was not provided.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+
+2025-04-10T07:10:17+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error Response: WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => A valid URL was not provided.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+
+2025-04-10T07:10:17+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:17+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:23+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:24+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:25+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:26+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:26+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:27+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T07:10:28+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
