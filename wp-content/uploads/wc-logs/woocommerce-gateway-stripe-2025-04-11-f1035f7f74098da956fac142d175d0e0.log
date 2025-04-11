@@ -1,0 +1,377 @@
+2025-04-11T06:02:27+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:27+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:27+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:29+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:29+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:30+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:33+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:33+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:34+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:35+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:35+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:36+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:36+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:37+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:37+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:38+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:38+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:02:39+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T06:09:56+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error: Unable to verify domain - You passed an invalid URI for your domain name. It must not contain a port, path, query, or fragment, and should be just a bare top-level domain, such as https://www.example.com .
+====End Log====
+
+
+2025-04-11T06:09:56+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+
+2025-04-11T06:10:00+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Error: Unable to verify domain - You passed an invalid URI for your domain name. It must not contain a port, path, query, or fragment, and should be just a bare top-level domain, such as https://www.example.com .
+====End Log====
+
+
+2025-04-11T06:10:00+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+
+2025-04-11T08:02:34+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-11T09:06:58+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Express Checkout does not support free products.
+====End Log====
+
+
+2025-04-11T09:26:20+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Express Checkout does not support free products.
+====End Log====
+
+
+2025-04-11T09:28:22+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers request: Array
+(
+    [email] => chinjunchen@gmail.com
+    [description] => Name: Jeremy Chin, Username: admin
+    [name] => Jeremy Chin
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => en-US
+        )
+
+    [address] => Array
+        (
+            [line1] => 62, Jalan Nagasari 36/1B
+            [line2] => Desa Latania Seksyen 36
+            [postal_code] => 40470
+            [city] => Shah Alam
+            [state] => SGR
+            [country] => MY
+        )
+
+)
+
+====End Log====
+
+
+2025-04-11T09:28:23+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers response with stripe-version: 2024-06-20
+====End Log====
+
+
+2025-04-11T09:28:23+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+setup_intents request: Array
+(
+    [payment_method] => pm_1RCdsjI3uqOx8TcZPUZnUFJB
+    [payment_method_types] => Array
+        (
+            [0] => card
+        )
+
+    [customer] => cus_S6rcXHei2l8Jnc
+    [confirm] => true
+    [use_stripe_sdk] => true
+)
+
+====End Log====
+
+
+2025-04-11T09:28:25+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+setup_intents response with stripe-version: 2024-06-20
+====End Log====
+
+
+2025-04-11T09:28:29+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+setup_intents/seti_1RCdspI3uqOx8TcZVnME2Juy
+====End Log====
+
+
+2025-04-11T09:28:30+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1RCdsjI3uqOx8TcZPUZnUFJB
+====End Log====
+
+
+2025-04-11T09:28:31+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_S6rcXHei2l8Jnc
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2025-04-11T09:28:32+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods response with stripe-version: 2024-06-20
+====End Log====
+
+
+2025-04-11T09:28:32+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/cus_S6rcXHei2l8Jnc request: Array
+(
+    [invoice_settings] => Array
+        (
+            [default_payment_method] => pm_1RCdsjI3uqOx8TcZPUZnUFJB
+        )
+
+)
+
+====End Log====
+
+
+2025-04-11T09:28:33+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/cus_S6rcXHei2l8Jnc response with stripe-version: 2024-06-20
+====End Log====
+
+
+2025-04-11T09:28:37+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods request: Array
+(
+    [customer] => cus_S6rcXHei2l8Jnc
+    [type] => card
+    [limit] => 100
+)
+
+====End Log====
+
+
+2025-04-11T09:28:38+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods response with stripe-version: 2024-06-20
+====End Log====
+
+
+2025-04-11T09:34:52+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Express Checkout does not support free products.
+====End Log====
+
+
+2025-04-11T09:37:31+00:00 DEBUG 
+====Stripe Version: 9.3.2====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Stripe Express Checkout does not support free products.
+====End Log====
+
+

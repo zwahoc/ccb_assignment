@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 2025-04-10T05:08:23+00:00 DEBUG 
 ====Stripe Version: 9.3.1====
 ====Stripe Plugin API Version: 2024-06-20====
@@ -375,6 +376,97 @@ account
 
 
 2025-04-10T07:10:28+00:00 DEBUG 
+=======
+2025-04-10T05:08:46+00:00 DEBUG 
+>>>>>>> Stashed changes
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T09:50:27+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:42+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:43+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:44+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:45+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:47+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:48+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:49+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:51+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:52+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+
+2025-04-10T11:50:53+00:00 DEBUG 
 ====Stripe Version: 9.3.1====
 ====Stripe Plugin API Version: 2024-06-20====
 ====Start Log====

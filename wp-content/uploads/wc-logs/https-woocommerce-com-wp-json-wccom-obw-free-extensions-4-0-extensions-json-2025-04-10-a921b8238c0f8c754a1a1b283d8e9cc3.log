@@ -20,3 +20,25 @@
 
 )
 
+2025-04-10T12:59:06+00:00 ERROR Error getting data feed
+2025-04-10T12:59:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
