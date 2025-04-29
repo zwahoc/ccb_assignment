@@ -42,4 +42,12 @@ This repository contains the source files for the **tarumtgradhub** project. Fol
 
 ---
 
+### 🔐 Security Note
+
+> API keys, tokens, and SMTP credentials that were used during development have been **revoked or deactivated** prior to submission.  
+> These keys were used for testing purposes only and **cannot be used in production** or by unauthorized users.  
+> This ensures that no sensitive information is exposed in the public repository or shared assignment files.
+
+---
+
 For any issues or questions, please refer to the repository's [issues section](https://github.com/zwahoc/tarumtgradhub/issues) or contact the project maintainers.
