@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-04-04 14:44+0000\n"
+"POT-Creation-Date: 2025-04-24 14:07+0000\n"
 "Project-Id-Version: undefined\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: "
@@ -517,9 +517,8 @@ msgid ""
 "colour, image or button swatches."
 msgstr ""
 
-#: framework/helpers/exts-configs.php:286,
-#: framework/features/conditions/rules/woo.php:42
-msgid "Product Brands"
+#: framework/helpers/exts-configs.php:286
+msgid "Advanced Product Brands"
 msgstr ""
 
 #: framework/helpers/exts-configs.php:287
@@ -1257,7 +1256,7 @@ msgstr ""
 #: framework/features/blocks/contact-info/options.php:397,
 #: framework/features/blocks/contact-info/options.php:460,
 #: framework/features/blocks/socials/options.php:14,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:683,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:581,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:181,
 #: framework/premium/extensions/woocommerce-extra/features/product-sale-countdown/feature.php:339,
 #: framework/premium/features/premium-header/items/contacts/options.php:87,
@@ -1728,8 +1727,8 @@ msgid "First name"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/helpers.php:170,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:265,
-#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:266
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:266,
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:267
 msgid "Email address"
 msgstr ""
 
@@ -1786,8 +1785,8 @@ msgstr ""
 #: framework/premium/features/content-blocks/content-block-layer.php:281,
 #: framework/premium/extensions/woocommerce-extra/features/sku-layer.php:64,
 #: framework/premium/extensions/post-types-extra/features/dynamic-data/feature.php:794,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:718,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:769,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:616,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:667,
 #: framework/premium/extensions/woocommerce-extra/features/product-sale-countdown/feature.php:351,
 #: framework/premium/extensions/woocommerce-extra/features/share-box-layer/feature.php:210,
 #: framework/premium/extensions/woocommerce-extra/features/shipping-progress/feature.php:213,
@@ -2871,6 +2870,7 @@ msgid "Newsletter"
 msgstr ""
 
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:256,
+#: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:257,
 #: framework/features/blocks/about-me/options.php:68,
 #: framework/features/header/items/account/options.php:611,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:191
@@ -2935,10 +2935,10 @@ msgid "Image"
 msgstr ""
 
 #: framework/features/blocks/about-me/options.php:63,
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:104,
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:114,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:910,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:920,
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:106,
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:116,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:794,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:804,
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:72
 msgid "Select Image"
 msgstr ""
@@ -3687,6 +3687,10 @@ msgstr ""
 msgid "Product Attributes"
 msgstr ""
 
+#: framework/features/conditions/rules/woo.php:42
+msgid "Product Brands"
+msgstr ""
+
 #: framework/features/conditions/rules/woo.php:49
 msgid "Product Tags"
 msgstr ""
@@ -3959,7 +3963,7 @@ msgid "Link Hover/Active"
 msgstr ""
 
 #: framework/premium/extensions/mega-menu/options.php:629,
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:157
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:159
 msgid "Background Hover"
 msgstr ""
 
@@ -4079,7 +4083,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:111
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/price-filter/index.js:113
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/status-filter/index.js:183
-#: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/index.js:150
+#: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/index.js:160
 msgid "Filter"
 msgstr ""
 
@@ -5295,11 +5299,11 @@ msgstr ""
 msgid "Blocksy Images Metadata"
 msgstr ""
 
-#: framework/premium/features/performance-typography/feature.php:118
+#: framework/premium/features/performance-typography/feature.php:130
 msgid "Preconnect Google Fonts"
 msgstr ""
 
-#: framework/premium/features/performance-typography/feature.php:129
+#: framework/premium/features/performance-typography/feature.php:141
 msgid "Preconnect Adobe Typekit Fonts"
 msgstr ""
 
@@ -5700,7 +5704,7 @@ msgid "Dropdown Options"
 msgstr ""
 
 #: framework/features/header/items/account/options.php:1950,
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:142,
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:144,
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:628,
 #: framework/premium/features/premium-header/items/contacts/options.php:635,
 #: framework/premium/features/premium-header/items/contacts/options.php:676,
@@ -6541,26 +6545,26 @@ msgid ""
 "cycling an item."
 msgstr ""
 
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:100,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:904
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:102,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:788
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:75
 msgid "Featured Image"
 msgstr ""
 
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:108,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:914
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:110,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:798
 msgid "Featured Icon/Logo"
 msgstr ""
 
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:118
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:120
 msgid "Accent Color"
 msgstr ""
 
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:147
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:149
 msgid "Text Hover"
 msgstr ""
 
-#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:152
+#: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:154
 msgid "Background Initial"
 msgstr ""
 
@@ -6809,53 +6813,38 @@ msgstr ""
 msgid "Add to cart"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/brands-import-export.php:19,
-#: framework/premium/extensions/woocommerce-extra/features/brands/brands-import-export.php:93
-msgid "Blocksy Brands"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:114
-msgid "Product brands base"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:126
-msgid "brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:577,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:609
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:475,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:507
 msgid "About Brands"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:578,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:611
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:476,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:509
 msgid "About %s"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:635,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:679,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:741,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:808,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:819,
-#: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:679
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:533,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:577,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:639,
+#: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:688
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:146
 msgid "Brands"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:638,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:694,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:745
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:536,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:592,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:643
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:598
 msgid "Logo Size"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:650,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:706,
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:757
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:548,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:604,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:655
 msgid "Logos Gap"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:663,
+#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:561,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:172,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:190,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:208,
@@ -6866,46 +6855,6 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:333,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:351
 msgid "Sticky Row"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:809
-msgid "Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:810
-msgid "Search Brands"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:811
-msgid "All Brands"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:812
-msgid "Parent Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:813
-msgid "Parent Brand:"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:814
-msgid "View Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:815
-msgid "Edit Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:816
-msgid "Update Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:817
-msgid "Add New Brand"
-msgstr ""
-
-#: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:818
-msgid "New Brand Name"
 msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/brands/options.php:5
@@ -8153,11 +8102,11 @@ msgstr ""
 msgid "Please wait until the lookup table is generated."
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:525
+#: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:529
 msgid "Collapse"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:526
+#: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:530
 msgid "Expand"
 msgstr ""
 
@@ -8238,15 +8187,15 @@ msgstr ""
 msgid "Abort"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:62
+#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:52
 msgid "Filters panel"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:70
+#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:60
 msgid "Available Filters"
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:71
+#: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:61
 msgid "Close filters modal"
 msgstr ""
 
@@ -8824,16 +8773,16 @@ msgstr ""
 msgid "Edit Font"
 msgstr ""
 
-#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:142
+#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:143
 #: framework/premium/extensions/custom-fonts/dashboard-static/js/Uploader.js:330
 msgid "Add Fonts"
 msgstr ""
 
-#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:76
+#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:77
 msgid "Custom Fonts Settings"
 msgstr ""
 
-#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:78
+#: framework/premium/extensions/custom-fonts/dashboard-static/js/CustomFonts.js:79
 msgid ""
 "Here you can see all your custom fonts that can be used in all typography "
 "options across the theme."
@@ -9360,7 +9309,7 @@ msgid ""
 "brand."
 msgstr ""
 
-#: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/index.js:148
+#: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/index.js:158
 msgid "Shop Filters"
 msgstr ""
 

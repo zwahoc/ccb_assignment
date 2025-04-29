@@ -1,6 +1,7 @@
 <?php
 
-define('WP_CACHE', true);
+
+
 /**
  * The base configuration for WordPress
  *
@@ -22,6 +23,8 @@ define('WP_CACHE', true);
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', 'C:\xampp\htdocs\tarumtgradhub\wp-content\plugins\wp-super-cache/' );
 define('DB_NAME', 'rds_database');
 
 /** Database username */
@@ -90,6 +93,15 @@ $table_prefix = 'wp_';
 define('WP_DEBUG', false);
 
 /* Add any custom values between this line and the "stop editing" line. */
+
+// ✨ Temporary force site URL and home URL for ngrok
+// if (isset($_SERVER['HTTP_HOST'])) {
+//     define('WP_HOME', 'https://' . $_SERVER['HTTP_HOST'] . '/ccb_assignment');
+//     define('WP_SITEURL', 'https://' . $_SERVER['HTTP_HOST'] . '/ccb_assignment');
+//     $_SERVER['HTTPS'] = 'on'; // <== force WordPress to treat it as HTTPS
+// }
+
+
 
 
 

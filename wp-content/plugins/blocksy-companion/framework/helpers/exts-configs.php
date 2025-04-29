@@ -283,10 +283,10 @@ if (! $only_billing_data) {
 
 				[
 					'id' => 'product-brands',
-					'title' => __('Product Brands', 'blocksy-companion'),
+					'title' => __('Advanced Product Brands', 'blocksy-companion'),
 					'description' => __('Categorise products by brands and show their logo in archive or single page so users could discover more about their makers.', 'blocksy-companion'),
 					'documentation' => 'https://creativethemes.com/blocksy/docs/woocommerce/product-brands/',
-					'manage' => admin_url('edit-tags.php?taxonomy=product_brands&post_type=product'),
+					'manage' => admin_url('edit-tags.php?taxonomy=product_brand&post_type=product'),
 					'require_refresh' => true,
 				],
 

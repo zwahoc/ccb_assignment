@@ -746,7 +746,7 @@ function astra_load_preload_local_fonts( $url, $format = 'woff2' ) {
 
 	if ( is_array( $astra_local_font_files ) && ! empty( $astra_local_font_files ) ) {
 		$font_format = apply_filters( 'astra_local_google_fonts_format', $format );
-		foreach ( $astra_local_font_files as $key => $local_font ) {
+		foreach ( $astra_local_font_files as $local_font ) {
 			if ( $local_font ) {
 				echo '<link rel="preload" href="' . esc_url( $local_font ) . '" as="font" type="font/' . esc_attr( $font_format ) . '" crossorigin>'; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- Preparing HTML link tag.
 			}
@@ -874,7 +874,44 @@ function astra_get_palette_colors() {
 
 	// Return the color palettes and presets together as a single array
 	return apply_filters( 'astra_global_color_palette', $color_palettes );
+}
 
+/**
+ * Function to get global color palette names.
+ *
+ * @return array color palette names.
+ * @since 4.10.0
+ */
+function astra_get_palette_names() {
+	$color_palette_reorganize = Astra_Dynamic_CSS::astra_4_8_9_compatibility();
+	$default_palette_names    = array(
+		'palette_1' => 'Default',
+		'palette_2' => $color_palette_reorganize ? 'Oak' : 'Style 2',
+		'palette_3' => $color_palette_reorganize ? 'Lavender' : 'Style 3',
+		'palette_4' => 'Dark',
+	);
+
+	$color_palettes = get_option( 'astra-color-palettes', array() );
+
+	$palette_names = $default_palette_names;
+	if ( isset( $color_palettes['presetNames'] ) ) {
+		$palette_names = $color_palettes['presetNames'];
+
+		// Ensure all 4 palette names exist, use default if empty.
+		foreach ( $default_palette_names as $key => $default_name ) {
+			if ( empty( $palette_names[ $key ] ) ) {
+				$palette_names[ $key ] = $default_name;
+			}
+		}
+	}
+
+	/**
+	 * Filter the color palette names before returning them.
+	 *
+	 * @param array $palette_names The array of color palette names.
+	 * @return array The filtered array of color palette names.
+	 */
+	return apply_filters( 'astra_get_palette_names', $palette_names );
 }
 
 /**

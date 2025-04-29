@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Blocksy Companion Pro package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-25 08:42:53+0000\n"
+"PO-Revision-Date: 2025-04-22 06:46:11+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,23 +13,23 @@ msgstr ""
 
 #: static/js/dashboard/helpers/useUpsellModal.js:88
 msgid "Business or Agency"
-msgstr ""
+msgstr "Bedrift eller byrå"
 
 #: static/js/options/ConditionsManager/SingleCondition.js:482
 msgid "Select value"
-msgstr ""
+msgstr "Velg verdi"
 
 #: framework/helpers/exts-configs.php:385
 msgid "Product Waitlist"
-msgstr ""
+msgstr "Produktventeliste"
 
 #: framework/helpers/exts-configs.php:386
 msgid "Allow your customers to sign up for a waitlist for products that are out of stock and get notified when they are back in stock."
-msgstr ""
+msgstr "La kundene dine registrere seg på en venteliste for produkter som er utsolgt, og få beskjed når de er tilbake på lager."
 
 #: framework/features/blocks/share-box/options.php:103
 msgid "Clipboard"
-msgstr ""
+msgstr "Utklippstavle"
 
 #: framework/premium/extensions/shortcuts/customizer.php:609,
 #: framework/premium/extensions/shortcuts/customizer.php:635,
@@ -40,99 +40,99 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/feature.php:193,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-account.php:67
 msgid "Waitlist"
-msgstr ""
+msgstr "Venteliste"
 
 #: framework/premium/extensions/shortcuts/customizer.php:895
 msgid "Tooltip Visibility"
-msgstr ""
+msgstr "Synlighet for verktøytips"
 
 #: framework/premium/extensions/shortcuts/customizer.php:1351
 msgid "Container Backdrop Blur"
-msgstr ""
+msgstr "Uskarphet på beholderbakgrunn"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:957
 msgid "Added to Cart: Before product"
-msgstr ""
+msgstr "Lagt i handlekurv: Før produkt"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:961
 msgid "Added to Cart: Before actions"
-msgstr ""
+msgstr "Lagt i handlekurv: Før handlinger"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:965
 msgid "Added to Cart: Before suggested products"
-msgstr ""
+msgstr "Lagt i handlekurv: Før foreslåtte produkter"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:969
 msgid "Added to Cart: After suggested products"
-msgstr ""
+msgstr "Lagt i handlekurv: Etter foreslåtte produkter"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:971
 msgid "WooCommerce: Added to Cart"
-msgstr ""
+msgstr "WooCommerce: Lagt i handlekurv"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:294
 msgid "Upsell Products"
-msgstr ""
+msgstr "Tilleggsprodukter"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:295
 msgid "Cross-sell Products"
-msgstr ""
+msgstr "Kryssalg-produkter"
 
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:506
 msgid "Auto Close Panel"
-msgstr ""
+msgstr "Lukk panel automatisk"
 
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/options.php:507
 msgid "Automatically close the panel when a filter option is selected."
-msgstr ""
+msgstr "Lukk panelet automatisk når et filteralternativ er valgt."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:15
 msgid "Form Type"
-msgstr ""
+msgstr "Skjematype"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:29
 msgid "Form Max Width"
-msgstr ""
+msgstr "Maksimal skjemabredde"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:41
 msgid "Enable For Backorders"
-msgstr ""
+msgstr "Aktiver for restordre"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:42
 msgid "Allow users to join the waitlist even if the product is on backorder."
-msgstr ""
+msgstr "Tillat brukere å bli med på ventelisten selv om produktet er på restordre."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:55
 msgid "Show Users Count"
-msgstr ""
+msgstr "Vis antall brukere"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:56
 msgid "Display a counter that reflects the current number of users on the waitlist."
-msgstr ""
+msgstr "Vis en teller som viser gjeldende antall brukere på ventelisten."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:69
 msgid "Logged In Users Only"
-msgstr ""
+msgstr "Kun innloggede brukere"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:70
 msgid "Display the waitlist feature exclusively to users who are logged in."
-msgstr ""
+msgstr "Vis ventelistefunksjonen kun for brukere som er innlogget."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:83
 msgid "Subscription Confirmation"
-msgstr ""
+msgstr "Bekreftelse på påmelding"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:84
 msgid "Specify which users should verify their waitlist subscription through email confirmation."
-msgstr ""
+msgstr "Angi hvilke brukere som må bekrefte ventelistepåmeldingen via e-post."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:107
 msgid "Waitlist Form Display Conditions"
-msgstr ""
+msgstr "Visningsbetingelser for ventelistskjema"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:108
 msgid "Choose where you want this Waitlist Form to be displayed."
-msgstr ""
+msgstr "Velg hvor du vil at dette ventelistskjemaet skal vises."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:160
 msgid "Message Font"
@@ -149,203 +149,203 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/table.php:40,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table.php:46
 msgid "Actions"
-msgstr ""
+msgstr "Handlinger"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:96,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:200,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:221,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:282
 msgid "Invalid request"
-msgstr ""
+msgstr "Ugyldig forespørsel"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:106
 msgid "No waitlist found"
-msgstr ""
+msgstr "Ingen venteliste funnet"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:127,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:128,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:162
 msgid "Waitlists"
-msgstr ""
+msgstr "Ventelister"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:153
 msgid "Number of items per page"
-msgstr ""
+msgstr "Antall elementer per side"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:171
 msgid "Waitlist for %s"
-msgstr ""
+msgstr "Venteliste for %s"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:213
 msgid "Invalid email"
-msgstr ""
+msgstr "Ugyldig e-postadresse"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:229
 msgid "You are already on the waitlist"
-msgstr ""
+msgstr "Du er allerede på ventelisten"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:267
 msgid "You have been added to the waitlist"
-msgstr ""
+msgstr "Du har blitt lagt til på ventelisten"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-dashboard.php:291
 msgid "You have been removed from the waitlist"
-msgstr ""
+msgstr "Du har blitt fjernet fra ventelisten"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-layer.php:33
 msgid "%s %s joined the waitlist for this item."
-msgstr ""
+msgstr "%s %s ble med på ventelisten for dette produktet."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-layer.php:243
 msgid "Waitlist Form"
-msgstr ""
+msgstr "Ventelisteskjema"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-mailer.php:78
 msgid "Your waitlist subscription has been successfully canceled."
-msgstr ""
+msgstr "Ventelistepåmeldingen din er blitt kansellert."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-mailer.php:117
 msgid "Your waitlist subscription has been successfully confirmed."
-msgstr ""
+msgstr "Ventelistepåmeldingen din er blitt bekreftet."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-table.php:11
 msgid "Search Products"
-msgstr ""
+msgstr "Søk etter produkter"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:14
 msgid "Export Subscribers"
-msgstr ""
+msgstr "Eksporter abonnenter"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:63
 msgid "Guest"
-msgstr ""
+msgstr "Gjest"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:75
 msgid "Edit this customer"
-msgstr ""
+msgstr "Rediger denne kunden"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:76
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:115,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:182
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:123
 msgid "View"
-msgstr ""
+msgstr "Vis"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:153
 msgid "%s ago"
-msgstr ""
+msgstr "for %s siden"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:169
 msgid "Is registered"
-msgstr ""
+msgstr "Er registrert"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-users-table.php:170
 msgid "Date created"
-msgstr ""
+msgstr "Opprettelsesdato"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/back-in-stock.php:8
 msgid "Waitlist - Back in Stock Notification"
-msgstr ""
+msgstr "Venteliste – Varsling om på lager igjen"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/back-in-stock.php:9
 msgid "This email is sent when a product is back in stock"
-msgstr ""
+msgstr "Denne e-posten sendes når et produkt er tilbake på lager"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/back-in-stock.php:10
 msgid "A product you are waiting for is back in stock"
-msgstr ""
+msgstr "Et produkt du venter på er tilbake på lager"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/back-in-stock.php:11
 msgid "Good news! The product you have been waiting for is now back in stock!"
-msgstr ""
+msgstr "Gode nyheter! Produktet du har ventet på er nå tilbake på lager!"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/confirm-subscription.php:8
 msgid "Waitlist - Confirm Subscription"
-msgstr ""
+msgstr "Venteliste – Bekreft påmelding"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/confirm-subscription.php:9
 msgid "This email is sent when a user subscribes to a product stock alert and should confirm their subscription"
-msgstr ""
+msgstr "Denne e-posten sendes når en bruker melder seg på et lager-varsel for et produkt og må bekrefte påmeldingen sin"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/confirm-subscription.php:10
 msgid "Confirm waitlist subscription"
-msgstr ""
+msgstr "Bekreft ventelistepåmelding"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/confirm-subscription.php:11
 msgid "Get notified when {product_title} is back in stock"
-msgstr ""
+msgstr "Få beskjed når {product_title} er tilbake på lager"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/subscription-confirmed.php:8
 msgid "Waitlist - Subscription Confirmed"
-msgstr ""
+msgstr "Venteliste – Påmelding bekreftet"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/subscription-confirmed.php:9
 msgid "This email is sent after a user confirmed the subscription to a product stock alert"
-msgstr ""
+msgstr "Denne e-posten sendes etter at en bruker har bekreftet påmeldingen til et lager-varsel for et produkt"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/subscription-confirmed.php:10
 msgid "Waitlist subscription confirmed"
-msgstr ""
+msgstr "Ventelistepåmelding bekreftet"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/subscription-confirmed.php:11
 msgid "You will be notified when {product_title} is back in stock"
-msgstr ""
+msgstr "Du vil få beskjed når {product_title} er tilbake på lager"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/waitlist-email.php:35,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/emails/waitlist-email.php:139
 msgid "Customer"
-msgstr ""
+msgstr "Kunde"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:27
 msgid "Enter your email"
-msgstr ""
+msgstr "Skriv inn e-postadressen din"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:40
 msgid "Join Waitlist"
-msgstr ""
+msgstr "Bli med på ventelisten"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:53
 msgid "This product is currently sold out!"
-msgstr ""
+msgstr "Dette produktet er for øyeblikket utsolgt!"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:61
 msgid "No worries! Please enter your e-mail address and we will promptly notify you as soon as the item is back in stock."
-msgstr ""
+msgstr "Ingen fare! Vennligst skriv inn e-postadressen din, så gir vi deg beskjed så snart produktet er tilbake på lager."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:69
 msgid "Great! You have been added to the waitlist for this product. Please check your inbox and confirm the subscription to this waitlist."
-msgstr ""
+msgstr "Flott! Du har blitt lagt til på ventelisten for dette produktet. Vennligst sjekk innboksen din og bekreft påmeldingen til ventelisten."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:97
 msgid "Great! You have been added to the waitlist for this product. You will receive an email as soon as the item is back in stock."
-msgstr ""
+msgstr "Flott! Du har blitt lagt til på ventelisten for dette produktet. Du vil motta en e-post så snart produktet er tilbake på lager."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/form.php:151,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table-single-product-row.php:86
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Meld deg av"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table-single-product-row.php:65
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table-single-product-row.php:65
 msgid "No"
-msgstr ""
+msgstr "Nei"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table.php:21
 msgid "You don't have any products in your waitlist yet."
-msgstr ""
+msgstr "Du har ingen produkter på ventelisten ennå."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table.php:42
 msgid "Confirmed"
-msgstr ""
+msgstr "Bekreftet"
 
 #. translators: %s User name.
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-back-in-stock.php:19,
@@ -355,77 +355,77 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:10,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-subscription-confirmed.php:10
 msgid "Hi, %s!"
-msgstr ""
+msgstr "Hei, %s!"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-back-in-stock.php:31,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-back-in-stock.php:19
 msgid "Great news! The %s from your waitlist is now back in stock!"
-msgstr ""
+msgstr "Gode nyheter! %s fra ventelisten din er nå tilbake på lager!"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-back-in-stock.php:42,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-back-in-stock.php:24
 msgid "Click the link below to secure your purchase before it is gone!"
-msgstr ""
+msgstr "Klikk på lenken under for å sikre deg kjøpet før det blir utsolgt!"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:26,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:15
 msgid "You have requested to join the waitlist for this item:"
-msgstr ""
+msgstr "Du har bedt om å bli med på ventelisten for dette produktet:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:62
 msgid "Click the button below to confirm your subscription. Once confirmed, we will notify you when the item is back in stock."
-msgstr ""
+msgstr "Klikk på knappen under for å bekrefte påmeldingen din. Når den er bekreftet, vil vi gi deg beskjed når produktet er tilbake på lager."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:66
 msgid "Confirm Subscription"
-msgstr ""
+msgstr "Bekreft påmelding"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:70,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:26
 msgid "Please note, the confirmation period is 2 days."
-msgstr ""
+msgstr "Vær oppmerksom på at bekreftelsesperioden er 2 dager."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:77,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-subscription-confirmed.php:65
 msgid "If you don't want to receive any further notifications, please %s"
-msgstr ""
+msgstr "Hvis du ikke ønsker å motta flere varsler, vennligst %s."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-confirm-subscription.php:78,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-subscription-confirmed.php:66
 msgid "unsubscribe"
-msgstr ""
+msgstr "meld deg av"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-subscription-confirmed.php:26,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-subscription-confirmed.php:15
 msgid "You have been successfully added to the waitlist for the following item:"
-msgstr ""
+msgstr "Du har blitt lagt til på ventelisten for følgende produkt:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-back-in-stock.php:28,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:17
 msgid "Product:"
-msgstr ""
+msgstr "Produkt:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-back-in-stock.php:29,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:18
 msgid "Price:"
-msgstr ""
+msgstr "Pris:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-back-in-stock.php:30
 msgid "Add to cart:"
-msgstr ""
+msgstr "Legg i handlekurv:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:19
 msgid "Product link:"
-msgstr ""
+msgstr "Produktlink:"
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:23
 msgid "Click the link below to confirm your subscription. Once confirmed, we will notify you when the item is back in stock."
-msgstr ""
+msgstr "Klikk på lenken under for å bekrefte påmeldingen din. Når den er bekreftet, vil vi gi deg beskjed når produktet er tilbake på lager."
 
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-confirm-subscription.php:32,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/plain/waitlist-subscription-confirmed.php:25
 msgid "If you don't want to receive any further notifications, please unsubscribe by clicking on this link - %s"
-msgstr ""
+msgstr "Hvis du ikke ønsker å motta flere varsler, vennligst meld deg av ved å klikke på denne lenken - %s"
 
 #: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:127
 msgid "API URL"
@@ -433,53 +433,53 @@ msgstr ""
 
 #: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:304
 msgid "More information on how to generate an API key for ActiveCampaign can be found %shere%s."
-msgstr ""
+msgstr "Mer informasjon om hvordan du genererer en API-nøkkel for ActiveCampaign kan finnes %shere%s."
 
 #: static/js/dashboard/helpers/useUpsellModal.js:18
 #: static/js/dashboard/screens/DemoInstall/SingleDemo.js:111
 msgid "Business"
-msgstr ""
+msgstr "Bedrift"
 
 #: framework/helpers/exts-configs.php:377,
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:4
 msgid "Added to Cart Popup"
-msgstr ""
+msgstr "Popup for lagt i handlekurv"
 
 #: framework/helpers/exts-configs.php:378
 msgid "Show a dynamic confirmation popup with product recommendations whenever items are added to the cart."
-msgstr ""
+msgstr "Vis en dynamisk bekreftelses-popup med produktanbefalinger hver gang varer legges til i handlekurven."
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:15
 msgid "Trigger Popup On"
-msgstr ""
+msgstr "Utløse popup ved"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:26
 msgid "Product Page"
-msgstr ""
+msgstr "Produktside"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:91
 msgid "Description Length"
-msgstr ""
+msgstr "Beskrivelsens lengde"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:102
 msgid "Cart Button"
-msgstr ""
+msgstr "Knapp for handlekurv"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:112
 msgid "Checkout Button"
-msgstr ""
+msgstr "Til kassen-knapp"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:121
 msgid "Continue Shopping Button"
-msgstr ""
+msgstr "Fortsett å handle-knapp"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:140
 msgid "Shipping Info"
-msgstr ""
+msgstr "Fraktinformasjon"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:149
 msgid "Tax Info"
-msgstr ""
+msgstr "MVA-informasjon"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:158
 msgid "Total Info"
@@ -487,16 +487,16 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:264
 msgid "Suggested Products"
-msgstr ""
+msgstr "Foreslåtte produkter"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:292,
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/suggested-products.php:51
 msgid "Related Products"
-msgstr ""
+msgstr "Relaterte produkter"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:293
 msgid "Recently Viewed Products"
-msgstr ""
+msgstr "Nylig viste produkter"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/customizer-options.php:368
 msgid "Products Card Type"
@@ -523,11 +523,11 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/view.php:95
 msgid "Product succesfully added to your cart!"
-msgstr ""
+msgstr "Produktet ble lagt til i handlekurven din!"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/view.php:102
 msgid "Close Modal"
-msgstr ""
+msgstr "Lukk modal"
 
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:331,
 #: framework/premium/extensions/woocommerce-extra/features/size-guide/customizer-options.php:124
@@ -541,68 +541,68 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/added-product.php:227
 msgid "Shipping Cost"
-msgstr ""
+msgstr "Fraktkostnad"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/added-product.php:236
 msgid "Tax Amount"
-msgstr ""
+msgstr "Beløp for MVA"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/added-product.php:245
 msgid "Cart Total"
-msgstr ""
+msgstr "Totalt i handlekurv"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/product-actions.php:24
 msgid "View Cart"
-msgstr ""
+msgstr "Vis handlekurv"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/product-actions.php:34
 msgid "Checkout"
-msgstr ""
+msgstr "Til kassen"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/product-actions.php:44
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Fortsett å handle"
 
 #: framework/premium/extensions/woocommerce-extra/features/added-to-cart-popup/views/suggested-products.php:53
 msgid "Recently Viewed"
-msgstr ""
+msgstr "Nylig sett"
 
 #: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:340
 msgid "More information on how to create a list in MailPoet can be found %shere%s."
-msgstr ""
+msgstr "Mer informasjon om hvordan du oppretter en liste i MailPoet finner du %sher%s."
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:9
 msgid "Color Mode"
-msgstr ""
+msgstr "Fargemodus"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:17
 msgid "One Color"
-msgstr ""
+msgstr "Én farge"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:18
 msgid "Dual Color"
-msgstr ""
+msgstr "To farger"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:28
 msgid "Colors"
-msgstr ""
+msgstr "Farger"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:50
 msgid "Color 1"
-msgstr ""
+msgstr "Farge 1"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:58
 msgid "Color 2"
-msgstr ""
+msgstr "Farge 2"
 
 #: framework/features/blocks/share-box/options.php:110,
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:88
 msgid "Tooltip"
-msgstr ""
+msgstr "Verktøytips"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:108
 msgid "Tooltip Text"
-msgstr ""
+msgstr "Verktøytipstekst"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/woo-tab-options.php:111
 msgid "{term_name}"
@@ -631,7 +631,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:52
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/Preview.js:94
 msgid "Please wait until the lookup table is generated."
-msgstr ""
+msgstr "Vennligst vent til oppslagstabellen er generert."
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/filter-types/taxonomies.php:472
 msgid "Collapse"
@@ -648,7 +648,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/filter-presenter.php:108
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/tax-filters/Preview.js:32
 msgid "Find by %s"
-msgstr ""
+msgstr "Finn etter %s"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:434
 msgid "Regenerate the product taxonomies lookup table"
@@ -668,64 +668,64 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:453
 msgid "Filling in progress (%d)"
-msgstr ""
+msgstr "Fylling pågår (%d)"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:494
 msgid "Resume the product taxonomies lookup table regeneration"
-msgstr ""
+msgstr "Gjenoppta gjenoppbyggingen av oppslagstabellen for produkttaksonomier"
 
 #. translators: %1$s = count of products already processed.
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:497
 msgid "This tool will resume the product taxonomies lookup table regeneration at the point in which it was aborted (%1$s products were already processed)."
-msgstr ""
+msgstr "Dette verktøyet vil gjenoppta gjenoppbyggingen av oppslagstabellen for produkttaksonomier fra punktet der den ble avbrutt (%1$s produkter ble allerede behandlet)."
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:516
 msgid "Product taxonomies lookup table regeneration process has been resumed."
-msgstr ""
+msgstr "Prosessen med å gjenoppbygge oppslagstabellen for produkttaksonomier er gjenopptatt."
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:518
 msgid "Resume"
-msgstr ""
+msgstr "Gjenoppta"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:466
 msgid "Abort the product taxonomies lookup table regeneration"
-msgstr ""
+msgstr "Avbryt gjenoppbyggingen av oppslagstabellen for produkttaksonomier"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:486
 msgid "Product taxonomies lookup table regeneration process has been aborted."
-msgstr ""
+msgstr "Gjenoppbyggingen av oppslagstabellen for produkttaksonomier er avbrutt."
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/taxonomies-products-lookup-table.php:488
 msgid "Abort"
-msgstr ""
+msgstr "Avbryt"
 
 #: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:158
 msgid "Container Border Color"
-msgstr ""
+msgstr "Kantfarge for beholder"
 
 #: framework/extensions/newsletter-subscribe/admin-static/js/newsletter-block/Edit.js:189
 msgid "Container Background Color"
-msgstr ""
+msgstr "Bakgrunnsfarge for beholder"
 
 #: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:143
 msgid "API Version"
-msgstr ""
+msgstr "API Versjon"
 
 #: framework/extensions/newsletter-subscribe/dashboard-static/js/EditCredentials.js:268
 msgid "More information on how to generate an API key for Brevo can be found %shere%s."
-msgstr ""
+msgstr "Mer informasjon om hvordan du genererer en API-nøkkel for Brevo finner du %sher%s."
 
 #: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:834
 msgid "Hide Documentation Links"
-msgstr ""
+msgstr "Skjul dokumentasjonslenker"
 
 #: framework/premium/extensions/white-label/dashboard-static/js/EditSettings.js:842
 msgid "Hide Video Links"
-msgstr ""
+msgstr "Skjul videolenker"
 
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/active-filters/index.js:104
 msgid "Display the currently active filters."
-msgstr ""
+msgstr "Vis de gjeldende filtrene."
 
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/active-filters/index.js:47
 msgid "Category 1"
@@ -745,7 +745,7 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/ct-order/OrderOverview.js:12
 msgid "Date"
-msgstr ""
+msgstr "Dato"
 
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/woocommerce-filters/price-filter/index.js:10
 msgid "Filter by Price Controls"
@@ -791,31 +791,31 @@ msgstr ""
 #: static/js/dashboard/VersionMismatch.js:62
 #: static/js/notifications/VersionMismatchNotice.js:74
 msgid "Update Blocksy Theme Now"
-msgstr ""
+msgstr "Oppdater Blocksy-temaet nå"
 
 #: static/js/dashboard/screens/DemoInstall.js:183
 msgid "Your site is misconfigured and AJAX requests are not reaching your backend. Please click %shere%s to find the common causes and possible solutions to this.<br> Error code - %s"
-msgstr ""
+msgstr "Nettstedet ditt er feilkonfigurert, og AJAX-forespørsler når ikke serveren din. Klikk %sher%s for å se vanlige årsaker og mulige løsninger på dette.<br> Feilkode – %s"
 
 #: static/js/dashboard/screens/DemoInstall.js:201
 msgid "Failed to retrieve starter sites list.<br> Error code - %s"
-msgstr ""
+msgstr "Kunne ikke hente listen over startnettsteder.<br> Feilkode – %s"
 
 #: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:129
 msgid "Installing %s"
-msgstr ""
+msgstr "Installerer %s"
 
 #: static/js/dashboard/screens/DemoInstall/Installer/useInstaller.js:345
 msgid "Preparing data..."
-msgstr ""
+msgstr "Forbereder data …"
 
 #: static/js/dashboard/screens/DemoInstall/SingleDemo.js:89
 msgid "Required plan"
-msgstr ""
+msgstr "Påkrevd abonnement"
 
 #: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:13
 msgid "All Plans"
-msgstr ""
+msgstr "Alle abonnement"
 
 #: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:15
 msgid "Pro"
@@ -823,23 +823,23 @@ msgstr ""
 
 #: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:182
 msgid "All Builders"
-msgstr ""
+msgstr "Alle byggere"
 
 #: static/js/dashboard/screens/DemoInstall/filters/DemoListFilters.js:206
 msgid "Search for a starter site..."
-msgstr ""
+msgstr "Søk etter et startnettsted …"
 
 #: static/js/dashboard/screens/SiteExport.js:176
 msgid "Export Site"
-msgstr ""
+msgstr "Eksporter nettsted"
 
 #: static/js/dashboard/screens/SiteExport.js:191
 msgid "Starter site"
-msgstr ""
+msgstr "Startnettsted"
 
 #: static/js/dashboard/screens/SiteExport.js:203
 msgid "Select a starter site"
-msgstr ""
+msgstr "Velg et startnettsted"
 
 #: static/js/editor/blocks/about-me/index.js:15
 msgid "About Me Controls"
@@ -847,11 +847,11 @@ msgstr ""
 
 #: static/js/editor/blocks/about-me/index.js:43
 msgid "Showcase your personal information across your website."
-msgstr ""
+msgstr "Vis frem din personlige informasjon på hele nettstedet ditt."
 
 #: static/js/editor/blocks/breadcrumbs/Preview.js:63
 msgid "Subpage"
-msgstr ""
+msgstr "Underside"
 
 #: static/js/editor/blocks/breadcrumbs/index.js:11
 msgid "Breadcrumbs"
@@ -903,63 +903,63 @@ msgstr ""
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:57
 msgid "Image Settings"
-msgstr ""
+msgstr "Bildeinnstillinger"
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:77
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Bildeforhold"
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:82
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:90
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:94
 msgid "4:3"
-msgstr ""
+msgstr "4:3"
 
 #: static/js/editor/blocks/dynamic-data/components/Dimensions.js:98
 msgid "3:2"
-msgstr ""
+msgstr "3:2"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:100
 msgid "Icon/Logo"
-msgstr ""
+msgstr "Ikon/logo"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:138
 msgid "Expand on click"
-msgstr ""
+msgstr "Utvid ved klikk"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:151
 msgid "Video thumbnail"
-msgstr ""
+msgstr "Miniatyrbilde for video"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:161
 msgid "Image Hover Effect"
-msgstr ""
+msgstr "Bildeeffekt ved hover"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:174
 msgid "Zoom In"
-msgstr ""
+msgstr "Zoom inn"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:178
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zoom ut"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:202
 msgid "Alternative Text"
-msgstr ""
+msgstr "Alternativ tekst"
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:215
 msgid "Describe the purpose of the image."
-msgstr ""
+msgstr "Beskriv formålet med bildet."
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:221
 msgid "Leave empty if decorative."
-msgstr ""
+msgstr "La stå tomt hvis dekorativt."
 
 #: static/js/editor/blocks/dynamic-data/components/InspectorControls.js:238
 msgid "Image size"
@@ -1040,17 +1040,17 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table.php:38
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:136
 msgid "Stock Status"
-msgstr ""
+msgstr "Lagerstatus"
 
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:24
 #: static/js/editor/blocks/dynamic-data/preview-parts/wp/TermTextPreview.js:8
 msgid "Term Title"
-msgstr ""
+msgstr "Begrepstittel"
 
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:28
 #: static/js/editor/blocks/dynamic-data/preview-parts/wp/TermTextPreview.js:9
 msgid "Term Description"
-msgstr ""
+msgstr "Begrepsbeskrivelse"
 
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:32
 msgid "Term Image"
@@ -1059,7 +1059,7 @@ msgstr ""
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:36
 #: static/js/editor/blocks/dynamic-data/preview-parts/wp/TermTextPreview.js:10
 msgid "Term Count"
-msgstr ""
+msgstr "Begrepsantall"
 
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:50
 msgid "Excerpt"
@@ -1076,12 +1076,12 @@ msgstr ""
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:91
 #: static/js/editor/blocks/dynamic-data/preview-parts/WpFieldPreview.js:46
 msgid "Archive Title"
-msgstr ""
+msgstr "Arkivtittel"
 
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:96
 #: static/js/editor/blocks/dynamic-data/preview-parts/WpFieldPreview.js:50
 msgid "Archive Description"
-msgstr ""
+msgstr "Arkivbeskrivelse"
 
 #: static/js/editor/blocks/dynamic-data/index.js:17
 msgid "Fetch and display content from various sources."
@@ -1157,7 +1157,7 @@ msgstr ""
 
 #: static/js/editor/blocks/dynamic-data/preview-parts/woo/RatingPreview.js:13
 msgid "Rated %s out of 5"
-msgstr ""
+msgstr "Vurdert til %s av 5"
 
 #: static/js/editor/blocks/dynamic-data/utils.js:15
 msgid "Unknown"
@@ -1166,12 +1166,12 @@ msgstr ""
 #: static/js/editor/blocks/post-template/Edit.js:170
 #: static/js/editor/blocks/tax-template/Edit.js:152
 msgid "List view"
-msgstr ""
+msgstr "Listevisning"
 
 #: static/js/editor/blocks/post-template/Edit.js:176
 #: static/js/editor/blocks/tax-template/Edit.js:158
 msgid "Grid view"
-msgstr ""
+msgstr "Rutenettvisning"
 
 #: static/js/editor/blocks/post-template/Edit.js:209
 #: static/js/editor/blocks/tax-template/Edit.js:190
@@ -1314,7 +1314,7 @@ msgstr ""
 
 #: static/js/editor/blocks/search/Preview.js:24
 msgid "Select category"
-msgstr ""
+msgstr "Velg kategori"
 
 #: static/js/editor/blocks/search/index.js:16
 msgid "Advanced Search"
@@ -1322,7 +1322,7 @@ msgstr ""
 
 #: static/js/editor/blocks/search/index.js:17
 msgid "Quickly find specific content on your site."
-msgstr ""
+msgstr "Finn raskt spesifikt innhold på nettstedet ditt."
 
 #: static/js/editor/blocks/share-box/Edit.js:110
 #: static/js/editor/blocks/socials/Edit.js:110
@@ -1426,19 +1426,19 @@ msgstr ""
 #: static/js/dashboard/VersionMismatch.js:19
 #: static/js/notifications/VersionMismatchNotice.js:27
 msgid "Action required - please update Blocksy theme to the latest version!"
-msgstr ""
+msgstr "Handling kreves – vennligst oppdater Blocksy-temaet til nyeste versjon!"
 
 #: framework/views/theme-mismatch.php:41
 #: static/js/dashboard/VersionMismatch.js:25
 #: static/js/notifications/VersionMismatchNotice.js:35
 msgid "We detected that you are using an outdated version of Blocksy theme."
-msgstr ""
+msgstr "Vi har oppdaget at du bruker en utdatert versjon av Blocksy-temaet."
 
 #: framework/views/theme-mismatch.php:45
 #: static/js/dashboard/VersionMismatch.js:32
 #: static/js/notifications/VersionMismatchNotice.js:44
 msgid "In order to take full advantage of all features the core has to offer - please install and activate the latest version of Blocksy theme."
-msgstr ""
+msgstr "For å utnytte alle funksjonene kjerne-temaet har å tilby, vennligst installer og aktiver den nyeste versjonen av Blocksy-temaet."
 
 #: framework/extensions/newsletter-subscribe/customizer.php:94,
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:127
@@ -1630,7 +1630,7 @@ msgstr ""
 
 #: framework/features/blocks/about-me/view.php:197
 msgid "View Profile"
-msgstr ""
+msgstr "Vis profil"
 
 #: framework/features/blocks/contact-info/options.php:44
 msgid "Contact Information"
@@ -1670,13 +1670,13 @@ msgstr ""
 #: framework/features/blocks/dynamic-data/options.php:97,
 #: framework/features/blocks/dynamic-data/views/wp-field.php:194
 msgid "No comments"
-msgstr ""
+msgstr "Ingen kommentarer"
 
 #: framework/features/blocks/dynamic-data/options.php:102,
 #: framework/features/blocks/dynamic-data/options.php:103,
 #: framework/features/blocks/dynamic-data/views/wp-field.php:195
 msgid "One comment"
-msgstr ""
+msgstr "Én kommentar"
 
 #: framework/features/blocks/dynamic-data/options.php:108
 msgid "Multiple comments"
@@ -1737,7 +1737,7 @@ msgstr ""
 #: framework/features/blocks/search/options.php:147,
 #: framework/features/blocks/search/view.php:265
 msgid "Select Category"
-msgstr ""
+msgstr "Velg kategori"
 
 #: framework/features/blocks/search/options.php:175,
 #: framework/premium/features/premium-header/items/search-input/options.php:164
@@ -1843,7 +1843,7 @@ msgstr ""
 
 #: framework/features/blocks/dynamic-data/views/avatar-field.php:30
 msgid "%s Avatar"
-msgstr ""
+msgstr "%s Avatar"
 
 #: framework/features/blocks/query/block-patterns/posts-layout-1.php:4
 msgid "Posts - Layout 1"
@@ -1924,11 +1924,11 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:570
 msgid "Upvote"
-msgstr ""
+msgstr "Stem opp"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:584
 msgid "Downvote"
-msgstr ""
+msgstr "Stem ned"
 
 #: framework/premium/extensions/woocommerce-extra/features/brands/brands-import-export.php:17,
 #: framework/premium/extensions/woocommerce-extra/features/brands/brands-import-export.php:69
@@ -2628,13 +2628,13 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:604
 msgid "You don't have any products in your compare list yet."
-msgstr ""
+msgstr "Du har ingen produkter i sammenligningslisten ennå."
 
 #: framework/features/blocks/dynamic-data/views/woo-field.php:25,
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:481
 #: static/js/editor/blocks/dynamic-data/preview-parts/woo/StockPreview.js:6
 msgid "In Stock"
-msgstr ""
+msgstr "På lager"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/active-filters.php:12,
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/active-filters.php:37,
@@ -2642,7 +2642,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/views/list-filter.php:109
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/active-filters/index.js:198
 msgid "Active Filters"
-msgstr ""
+msgstr "Aktive filtre"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/active-filters.php:22
 msgid "Active Filters Label"
@@ -2652,7 +2652,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/views/list-filter.php:31
 #: framework/premium/extensions/woocommerce-extra/static/js/blocks/active-filters/index.js:32
 msgid "Reset Filters"
-msgstr ""
+msgstr "Nullstill filtre"
 
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/filter-presenter.php:149,
 #: framework/premium/extensions/woocommerce-extra/features/filters/includes/price-filter.php:188
@@ -2683,7 +2683,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table-single-product-row.php:57
 #: static/js/editor/blocks/dynamic-data/preview-parts/woo/StockPreview.js:7
 msgid "Out of Stock"
-msgstr ""
+msgstr "Utsolgt"
 
 #: framework/premium/extensions/woocommerce-extra/features/swatches/feature.php:540
 msgid "Display Variations Inline"
@@ -2761,7 +2761,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/views/table-no-results.php:3,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/views/table.php:19
 msgid "Browse products"
-msgstr ""
+msgstr "Bla gjennom produkter"
 
 #: framework/features/blocks/contact-info/options.php:533,
 #: framework/premium/features/premium-header/items/contacts/options.php:417
@@ -2770,7 +2770,7 @@ msgstr ""
 
 #: framework/premium/features/premium-header/items/contacts/view.php:59
 msgid "Download"
-msgstr ""
+msgstr "Last ned"
 
 #: framework/premium/features/premium-header/items/divider/options.php:22,
 #: framework/premium/features/premium-header/items/divider/options.php:51,
@@ -3016,38 +3016,38 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/helpers.php:36
 msgid "Quick view"
-msgstr ""
+msgstr "Hurtigvisning"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:19
 msgid "Additional Actions"
-msgstr ""
+msgstr "Ytterligere handlinger"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:25
 msgid "Buttons Type"
-msgstr ""
+msgstr "Knappetype"
 
 #: framework/extensions/trending/customizer.php:449,
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:33,
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:80,
 #: framework/premium/extensions/woocommerce-extra/features/swatches/feature.php:727
 msgid "Button"
-msgstr ""
+msgstr "Knapp"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:72
 msgid "Modal Trigger"
-msgstr ""
+msgstr "Modalutløser"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:82
 msgid "Card"
-msgstr ""
+msgstr "Kort"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:91
 msgid "Modal Width"
-msgstr ""
+msgstr "Modalbredde"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:102
 msgid "Product Navigation"
-msgstr ""
+msgstr "Produkt-navigasjon"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:108
 msgid "Display next/previous buttons that will help to easily navigate through products."
@@ -3131,7 +3131,7 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/custom-tabs/options.php:32
 msgid "Default tabs order: Description - 10, Additional Information - 20, Reviews - 30."
-msgstr ""
+msgstr "Standard rekkefølge for faner: Beskrivelse - 10, Tilleggsinformasjon - 20, Anmeldelser - 30."
 
 #: framework/premium/extensions/woocommerce-extra/features/custom-thank-you-page/feature.php:106
 msgid "Payment Gateways"
@@ -3242,7 +3242,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:266,
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:470
 msgid "Availability"
-msgstr ""
+msgstr "Tilgjengelighet"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:469
 msgid "Modal Border Radius"
@@ -3311,31 +3311,31 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:57
 msgid "Allow users to upload images when leaving a review."
-msgstr ""
+msgstr "Tillat brukere å laste opp bilder når de skriver en anmeldelse."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:73
 msgid "Image Lightbox"
-msgstr ""
+msgstr "Bilde lightbox"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:74
 msgid "Allow users to open attached review images in lightbox."
-msgstr ""
+msgstr "Tillat brukere å åpne vedlagte anmeldelsesbilder i lightbox."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:88
 msgid "Review Voting"
-msgstr ""
+msgstr "Anmeldelsesvotering"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:89
 msgid "Allow users to upvote reviews."
-msgstr ""
+msgstr "Tillat brukere å stemme opp anmeldelser."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:105
 msgid "Allowed Users"
-msgstr ""
+msgstr "Tillatte brukere"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:106
 msgid "Set which users are allowed to vote."
-msgstr ""
+msgstr "Sett hvilke brukere som har lov til å stemme"
 
 #: framework/premium/extensions/woocommerce-extra/features/affiliate/options.php:5
 msgid "Affiliate Products"
@@ -3395,7 +3395,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:493
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:146
 msgid "Brands"
-msgstr ""
+msgstr "Merker"
 
 #: framework/premium/extensions/woocommerce-extra/features/brands/feature.php:562,
 #: framework/premium/extensions/woocommerce-extra/features/compare/options.php:150,
@@ -3488,72 +3488,72 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:376
 msgid "Star"
-msgstr ""
+msgstr "Stjerne"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:376
 msgid "Stars"
-msgstr ""
+msgstr "Stjerner"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:442
 msgid "%s%% of customers recommend this product."
-msgstr ""
+msgstr "%s%% av kundene anbefaler dette produktet."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:604
 msgid "%s of %s found this review helpful"
-msgstr ""
+msgstr "%s av %s fant denne anmeldelsen nyttig."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:666,
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:44
 msgid "Review Title"
-msgstr ""
+msgstr "Anmeldelsestittel"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php:694
 msgid "Upload Image (Optional)"
-msgstr ""
+msgstr "Last opp bilde (valgfritt)"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:11
 msgid "Reviews Order"
-msgstr ""
+msgstr "Rekkefølge på anmeldelser"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:18
 msgid "Oldest First"
-msgstr ""
+msgstr "Eldste først"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:19
 msgid "Newest First"
-msgstr ""
+msgstr "Nyeste først"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:20
 msgid "Low Rating First"
-msgstr ""
+msgstr "Laveste vurdering først"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:21
 msgid "High Rating First"
-msgstr ""
+msgstr "Høyeste vurdering først"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:22
 msgid "Most Relevant"
-msgstr ""
+msgstr "Mest relevant"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:32
 msgid "Average Score"
-msgstr ""
+msgstr "Gjennomsnittlig vurdering"
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:33
 msgid "Display an average score for all reviews."
-msgstr ""
+msgstr "Vis et gjennomsnittlig vurderingsscore for alle anmeldelser."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:45
 msgid "Allow users to add a title when leaving a review."
-msgstr ""
+msgstr "Tillat brukere å legge til en tittel når de skriver en anmeldelse."
 
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:56
 msgid "Image Upload"
-msgstr ""
+msgstr "Bildeopplasting"
 
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/view.php:78
 msgid "Color mode switch"
-msgstr ""
+msgstr "Fargemodusbryter"
 
 #: framework/premium/extensions/post-types-extra/features/filtering/customizer.php:92
 msgid "Items Counter"
@@ -3623,7 +3623,7 @@ msgstr ""
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/options.php:118,
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/view.php:54
 msgid "Light Mode"
-msgstr ""
+msgstr "Lysmodus"
 
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/options.php:128
 msgid "Default Color Mode"
@@ -3789,7 +3789,7 @@ msgstr ""
 #: framework/features/header/items/account/views/login.php:164,
 #: framework/features/header/items/account/views/login.php:364
 msgid "Edit Profile"
-msgstr ""
+msgstr "Rediger profil"
 
 #: framework/features/header/items/account/options.php:101,
 #: framework/features/header/items/account/options.php:105,
@@ -3797,30 +3797,30 @@ msgstr ""
 #: framework/features/header/items/account/views/login.php:170,
 #: framework/features/header/items/account/views/login.php:385
 msgid "Log Out"
-msgstr ""
+msgstr "Logg ut"
 
 #: framework/features/header/items/account/options.php:185,
 #: framework/features/header/items/account/options.php:189,
 #: framework/features/header/items/account/views/login.php:591
 msgid "Dokan Dashboard"
-msgstr ""
+msgstr "Dokan kontrollpanel"
 
 #: framework/features/header/items/account/options.php:199,
 #: framework/features/header/items/account/options.php:203,
 #: framework/features/header/items/account/views/login.php:625
 msgid "Dokan Shop"
-msgstr ""
+msgstr "Dokan butikk"
 
 #: framework/features/header/items/account/options.php:215,
 #: framework/features/header/items/account/options.php:219,
 #: framework/features/header/items/account/views/login.php:657
 msgid "Tutor LMS Dashboard"
-msgstr ""
+msgstr "Tutor LMS kontrollpanel"
 
 #: framework/features/header/items/account/options.php:235,
 #: framework/features/header/items/account/views/login.php:684
 msgid "bbPress Dashboard"
-msgstr ""
+msgstr "bbPress kontrollpanel"
 
 #: framework/features/header/items/account/options.php:619,
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/options.php:32
@@ -3844,7 +3844,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:434
 #: static/js/editor/blocks/dynamic-data/hooks/use-dynamic-data-descriptor.js:140
 msgid "SKU"
-msgstr ""
+msgstr "SKU"
 
 #: framework/premium/features/content-blocks/options/404.php:84,
 #: framework/premium/features/content-blocks/options/archive.php:161,
@@ -4008,7 +4008,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/header-items/compare/options.php:140,
 #: framework/premium/extensions/woocommerce-extra/features/compare/header-items/compare/view.php:97
 msgid "Compare"
-msgstr ""
+msgstr "Sammenlign"
 
 #: framework/premium/extensions/shortcuts/customizer.php:1124
 msgid "Item Background Color"
@@ -4061,7 +4061,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/swatches/feature.php:903,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/includes/waitlist-layer.php:246
 msgid "Bottom Spacing"
-msgstr ""
+msgstr "Bunnavstand"
 
 #: framework/premium/features/content-blocks/hooks-manager.php:194
 msgid "Before first post meta"
@@ -4147,7 +4147,7 @@ msgstr ""
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/options.php:137,
 #: framework/extensions/newsletter-subscribe/ct-newsletter-subscribe/view.php:152
 msgid "Your email *"
-msgstr ""
+msgstr "Din e-post *"
 
 #: framework/extensions/newsletter-subscribe/providers/demo.php:16
 msgid "Demo List"
@@ -4266,11 +4266,11 @@ msgstr ""
 #: framework/helpers/exts-configs.php:322,
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:5
 msgid "Advanced Reviews"
-msgstr ""
+msgstr "Avanserte anmeldelser"
 
 #: framework/helpers/exts-configs.php:323
 msgid "Enhance your WooCommerce reviews with rich content, images and a thumbs up system that help your shoppers find the perfect product."
-msgstr ""
+msgstr "Forbedre WooCommerce-anmeldelsene dine med rikt innhold, bilder og et tommel opp-system som hjelper kundene dine med å finne det perfekte produktet."
 
 #: framework/extensions/cookies-consent/customizer.php:112
 msgid "Forms Cookies Content"
@@ -4367,7 +4367,7 @@ msgstr ""
 #: framework/helpers/exts-configs.php:254,
 #: framework/premium/extensions/shortcuts/views/bar.php:54
 msgid "Filters"
-msgstr ""
+msgstr "Filtre"
 
 #: framework/helpers/exts-configs.php:255
 msgid "Drill down the product list with new filtering widgets, an off canvas area for them and showing the active filters on the page."
@@ -4444,7 +4444,7 @@ msgstr ""
 #: framework/features/header/items/account/views/login.php:158,
 #: framework/features/header/items/account/views/login.php:335
 msgid "Dashboard"
-msgstr ""
+msgstr "Kontrollpanel"
 
 #: framework/dashboard.php:521
 msgid "You do not have sufficient permissions to access this page."
@@ -4790,11 +4790,11 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:62
 msgid "Close filters modal"
-msgstr ""
+msgstr "Lukk filtermodalen"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/view.php:45
 msgid "Close quick view"
-msgstr ""
+msgstr "Lukk hurtigvisning"
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/helpers.php:45
 msgid "Quick view toggle"
@@ -4875,13 +4875,13 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:116,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:95
 msgid "Logged In"
-msgstr ""
+msgstr "Inlogget"
 
 #: framework/features/header/items/account/options.php:1100,
 #: framework/premium/extensions/woocommerce-extra/features/advanced-reviews/options.php:117,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/customizer-options.php:96
 msgid "Logged Out"
-msgstr ""
+msgstr "Utlogget"
 
 #: framework/premium/extensions/post-types-extra/features/dynamic-data/feature.php:1385
 msgid "Custom Field"
@@ -5165,11 +5165,11 @@ msgstr ""
 #: framework/extensions/product-reviews/config.php:5
 msgctxt "Extension Brand Name"
 msgid "Product Reviews"
-msgstr ""
+msgstr "Product Reviews"
 
 #: framework/extensions/product-reviews/metabox.php:60
 msgid "Please note that some of this information (price, sku, brand) won't be displayed on the front-end. It is solely used for Google's Schema.org markup."
-msgstr ""
+msgstr "Vær oppmerksom på at noe av denne informasjonen (pris, SKU, merke) ikke vil vises på front-end. Den brukes kun for Googles Schema.org-merking."
 
 #. translators: This is a brand name. Preferably to not be translated
 #: framework/extensions/trending/config.php:5,
@@ -5781,45 +5781,45 @@ msgstr "Eksporter nettsted"
 
 #: framework/premium/extensions/mega-menu/extension.php:325
 msgid "New"
-msgstr ""
+msgstr "Ny"
 
 #: framework/premium/extensions/mega-menu/options.php:16,
 #: framework/premium/extensions/mega-menu/options.php:581
 msgid "Mega Menu Settings"
-msgstr ""
+msgstr "Innstillinger for mega-meny"
 
 #: framework/premium/extensions/mega-menu/options.php:28
 msgid "Dropdown Width"
-msgstr ""
+msgstr "Bredde på rullegardinmeny"
 
 #: framework/premium/extensions/mega-menu/options.php:36,
 #: framework/premium/extensions/mega-menu/options.php:49
 msgid "Content Width"
-msgstr ""
+msgstr "Innholdsbredden"
 
 #: framework/premium/extensions/mega-menu/options.php:37,
 #: framework/premium/extensions/mega-menu/options.php:58
 msgid "Full Width"
-msgstr ""
+msgstr "Full bredde"
 
 #: framework/premium/extensions/mega-menu/options.php:38,
 #: framework/premium/features/content-blocks/options/archive.php:86
 msgid "Custom Width"
-msgstr ""
+msgstr "Egendefinert bredde"
 
 #: framework/premium/extensions/mega-menu/options.php:57
 msgid "Default Width"
-msgstr ""
+msgstr "Standardbredde"
 
 #: framework/premium/extensions/mega-menu/options.php:86,
 #: framework/premium/extensions/woocommerce-extra/features/product-gallery/feature.php:178,
 #: framework/premium/extensions/woocommerce-extra/features/product-gallery/feature.php:197
 msgid "Columns"
-msgstr ""
+msgstr "Kolonner"
 
 #: framework/premium/extensions/mega-menu/options.php:333
 msgid "Custom Content"
-msgstr ""
+msgstr "Egendefinert innhold"
 
 #: framework/premium/extensions/mega-menu/options.php:337
 msgid "Content Type"
@@ -5918,18 +5918,18 @@ msgstr ""
 #: framework/premium/extensions/mega-menu/options.php:629,
 #: framework/premium/extensions/post-types-extra/features/taxonomies-customization/feature.php:149
 msgid "Background Hover"
-msgstr ""
+msgstr "Bakgrunn ved hover"
 
 #: framework/premium/extensions/mega-menu/options.php:646,
 #: framework/premium/extensions/mega-menu/options.php:803
 msgid "Heading Color"
-msgstr ""
+msgstr "Overskriftsfarge"
 
 #: framework/premium/extensions/mega-menu/options.php:658,
 #: framework/premium/extensions/mega-menu/options.php:677,
 #: framework/premium/extensions/mega-menu/options.php:815
 msgid "Initial Color"
-msgstr ""
+msgstr "Opprinnelig farge"
 
 #: framework/extensions/cookies-consent/customizer.php:147,
 #: framework/extensions/newsletter-subscribe/customizer.php:196,
@@ -5939,31 +5939,31 @@ msgstr ""
 #: static/js/editor/blocks/breadcrumbs/Edit.js:43
 #: static/js/editor/blocks/contact-info/Edit.js:96
 msgid "Text Color"
-msgstr ""
+msgstr "Tekstfarge"
 
 #: framework/premium/extensions/mega-menu/options.php:684,
 #: framework/premium/extensions/shortcuts/customizer.php:1282,
 #: framework/premium/features/premium-header/items/search-input/options.php:904,
 #: framework/premium/features/premium-header/items/language-switcher/options/dropdown.php:161
 msgid "Items Divider"
-msgstr ""
+msgstr "Delingslinje for elementer"
 
 #: framework/premium/extensions/mega-menu/options.php:699
 msgid "Columns Divider"
-msgstr ""
+msgstr "Delingslinje for kolonner"
 
 #: framework/premium/extensions/mega-menu/options.php:714,
 #: framework/premium/features/premium-header/items/search-input/options.php:886
 msgid "Dropdown Shadow"
-msgstr ""
+msgstr "Rullegardinens skygge"
 
 #: framework/premium/extensions/mega-menu/options.php:746
 msgid "Column Settings"
-msgstr ""
+msgstr "Kolonneinnstillinger"
 
 #: framework/premium/extensions/mega-menu/options.php:750
 msgid "Column Spacing"
-msgstr ""
+msgstr "Kolonneavstand"
 
 #: framework/premium/extensions/mega-menu/options.php:825,
 #: framework/features/header/items/account/options.php:1327,
@@ -5996,12 +5996,12 @@ msgstr "Ikonfarge"
 
 #: framework/helpers/exts-configs.php:137
 msgid "Enables support for Custom Fields inside archive cards and single page post title, adds a reading progress bar for your posts and lets you set featured images and colors for your categories archives."
-msgstr ""
+msgstr "Aktiverer støtte for egendefinerte felt i arkivkort og enkeltinnleggstittel, legger til en leseprogresjonslinje for innleggene dine, og lar deg sette utvalgte bilder og farger for kategorienes arkiver."
 
 #: framework/helpers/exts-configs.php:180,
 #: framework/premium/extensions/shortcuts/config.php:6
 msgid "Easily turn your websites into mobile first experiences. You can easily add the most important actions at the bottom of the screen for easy access."
-msgstr ""
+msgstr "Gjør enkelt nettstedene dine til mobil-første opplevelser. Du kan enkelt legge til de viktigste handlingene nederst på skjermen for enkel tilgang."
 
 #: framework/premium/extensions/shortcuts/customizer.php:12,
 #: framework/premium/extensions/shortcuts/customizer.php:38,
@@ -6010,7 +6010,7 @@ msgstr ""
 #: framework/premium/extensions/shortcuts/views/bar.php:13,
 #: framework/premium/extensions/shortcuts/views/bar.php:46
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: framework/features/blocks/contact-info/options.php:139,
 #: framework/premium/extensions/shortcuts/customizer.php:71,
@@ -6027,18 +6027,18 @@ msgstr "Telefon"
 #: framework/premium/extensions/shortcuts/customizer.php:227,
 #: framework/premium/extensions/shortcuts/views/bar.php:49
 msgid "Scroll Top"
-msgstr ""
+msgstr "Til toppen"
 
 #: framework/premium/extensions/shortcuts/customizer.php:352,
 #: framework/premium/extensions/shortcuts/customizer.php:378,
 #: framework/premium/extensions/shortcuts/views/bar.php:50
 msgid "Cart"
-msgstr ""
+msgstr "Handlekurv"
 
 #: framework/premium/extensions/shortcuts/customizer.php:411,
 #: framework/premium/extensions/shortcuts/customizer.php:437
 msgid "Shop"
-msgstr ""
+msgstr "Butikk"
 
 #: framework/helpers/exts-configs.php:262,
 #: framework/premium/extensions/shortcuts/customizer.php:545,
@@ -6056,7 +6056,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/options.php:141,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/header-items/wish-list/view.php:100
 msgid "Wishlist"
-msgstr ""
+msgstr "Ønskeliste"
 
 #: framework/premium/extensions/shortcuts/customizer.php:784
 msgid "Shortcuts"
@@ -6182,7 +6182,7 @@ msgstr ""
 #: framework/premium/extensions/sidebars/form.php:3
 #: framework/premium/extensions/sidebars/static/js/main.js:50
 msgid "Create Sidebar/Widget Area"
-msgstr ""
+msgstr "Lag sidemeny/Widget-område"
 
 #: framework/premium/extensions/sidebars/form.php:6
 msgid "In order to create a new sidebar/widget area simply enter a name in the input below and click the Create Sidebar button."
@@ -6231,7 +6231,7 @@ msgstr "Type 4"
 
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/views/panel.php:61
 msgid "Available Filters"
-msgstr ""
+msgstr "Tilgjengelige filtre"
 
 #: framework/premium/extensions/woocommerce-extra/extension.php:128
 msgid "Quick view title before"
@@ -6281,7 +6281,7 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/quick-view/view.php:77
 msgid "Go to product page"
-msgstr ""
+msgstr "Gå til produktsiden"
 
 #: framework/premium/extensions/shortcuts/customizer.php:507,
 #: framework/premium/extensions/woocommerce-extra/features/offcanvas-filters/helpers.php:40,
@@ -7569,7 +7569,7 @@ msgstr ""
 
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/views/table-no-results.php:6
 msgid "You don't have any products in your wish list yet."
-msgstr ""
+msgstr "You don't have any products in your wish list yet."
 
 #: framework/premium/extensions/woocommerce-extra/features/archive-card/feature.php:56,
 #: framework/premium/extensions/woocommerce-extra/features/product-waitlist/templates/emails/waitlist-back-in-stock.php:54,
@@ -7582,7 +7582,7 @@ msgstr ""
 #: framework/premium/extensions/woocommerce-extra/features/compare/views/table.php:145,
 #: framework/premium/extensions/woocommerce-extra/features/wish-list/views/columns/product-remove-button.php:12
 msgid "Remove Product"
-msgstr ""
+msgstr "Fjern produkt"
 
 #: framework/premium/extensions/woocommerce-extra/includes/woo-import-export.php:36
 msgid "Blocksy Variation Images"
@@ -7978,7 +7978,7 @@ msgstr ""
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/options.php:106,
 #: framework/premium/extensions/color-mode-switch/header-items/color-mode-switcher/view.php:45
 msgid "Dark Mode"
-msgstr ""
+msgstr "Mørk modus"
 
 #: framework/features/header/items/account/options.php:68,
 #: framework/features/header/items/account/options.php:1999,
@@ -10014,7 +10014,7 @@ msgstr "Åpne lenke i ny fane"
 
 #: framework/extensions/product-reviews/metabox.php:127
 msgid "Sponsored Attribute"
-msgstr ""
+msgstr "Sponset-attributt"
 
 #: framework/extensions/product-reviews/metabox.php:150
 msgid "Read More Button Label"
@@ -10218,7 +10218,7 @@ msgstr "Vis betingelser"
 
 #: framework/premium/features/content-blocks/admin-ui.php:653
 msgid "Hooks Locations"
-msgstr ""
+msgstr "Plasseringer for hooks"
 
 #: framework/premium/extensions/shortcuts/customizer.php:765,
 #: framework/premium/features/content-blocks/admin-ui.php:342,
@@ -10229,21 +10229,21 @@ msgstr "Type"
 
 #: framework/premium/features/content-blocks/admin-ui.php:343
 msgid "Location/Trigger"
-msgstr ""
+msgstr "Plassering/utløser"
 
 #: framework/premium/features/content-blocks/admin-ui.php:344,
 #: framework/premium/extensions/woocommerce-extra/features/custom-tabs/feature.php:80,
 #: framework/premium/extensions/woocommerce-extra/features/size-guide/feature.php:143
 msgid "Conditions"
-msgstr ""
+msgstr "Betingelser"
 
 #: framework/premium/features/content-blocks/admin-ui.php:345
 msgid "Output"
-msgstr ""
+msgstr "Utdata"
 
 #: framework/premium/features/content-blocks/admin-ui.php:346
 msgid "Enable/Disable"
-msgstr ""
+msgstr "Aktiver/deaktiver"
 
 #: framework/features/blocks/about-me/options.php:204,
 #: framework/features/blocks/contact-info/options.php:564,
@@ -10271,45 +10271,45 @@ msgstr "Ingen"
 #: framework/premium/features/content-blocks/admin-ui.php:372,
 #: framework/premium/features/content-blocks/options/popup.php:76
 msgid "On scroll"
-msgstr ""
+msgstr "Ved skrolling"
 
 #: framework/premium/features/content-blocks/admin-ui.php:373,
 #: framework/premium/features/content-blocks/options/popup.php:77
 msgid "On scroll to element"
-msgstr ""
+msgstr "Ved scroll til elementet"
 
 #: framework/premium/features/content-blocks/admin-ui.php:375,
 #: framework/premium/features/content-blocks/options/popup.php:79
 msgid "On page load"
-msgstr ""
+msgstr "Ved sideinnlasting"
 
 #: framework/premium/features/content-blocks/admin-ui.php:376,
 #: framework/premium/features/content-blocks/options/popup.php:80
 msgid "After inactivity"
-msgstr ""
+msgstr "Etter inaktivitet"
 
 #: framework/premium/features/content-blocks/admin-ui.php:377,
 #: framework/premium/features/content-blocks/options/popup.php:81
 msgid "After x time"
-msgstr ""
+msgstr "Etter x tid"
 
 #: framework/premium/features/content-blocks/admin-ui.php:379,
 #: framework/premium/features/content-blocks/options/popup.php:83
 msgid "On page exit intent"
-msgstr ""
+msgstr "Ved intensjon om å forlate siden"
 
 #: framework/premium/features/content-blocks/admin-ui.php:383
 msgid "Down"
-msgstr ""
+msgstr "Ned"
 
 #: framework/premium/features/content-blocks/admin-ui.php:384
 msgid "Up"
-msgstr ""
+msgstr "Opp"
 
 #: framework/premium/features/content-blocks.php:193,
 #: framework/premium/features/content-blocks.php:199
 msgid "Content Blocks"
-msgstr ""
+msgstr "Innholdsblokker"
 
 #: framework/premium/features/content-blocks.php:194,
 #: framework/premium/extensions/mega-menu/options.php:346,
@@ -10552,7 +10552,7 @@ msgstr ""
 
 #: framework/helpers/exts-configs.php:71
 msgid "Inject custom code snippets throughout your website. The extension works globally or on a per post/page basis."
-msgstr ""
+msgstr "Legg til tilpassede kodebiter på nettstedet ditt. Denne utvidelsen fungerer enten globalt eller per innlegg/side."
 
 #: framework/premium/extensions/code-snippets/extension.php:42,
 #: framework/premium/extensions/code-snippets/extension.php:97,
@@ -10562,16 +10562,16 @@ msgstr ""
 
 #: framework/helpers/exts-configs.php:97
 msgid "Upload an unlimited number of custom fonts or variable fonts and use them throughout Blocksy and your favorite page builder."
-msgstr ""
+msgstr "Last opp et ubegrenset antall tilpassede skrifttyper eller variable skrifttyper, og bruk dem på tvers av Blocksy og din favorittsidebygger."
 
 #: framework/helpers/exts-configs.php:109
 msgid "Serve your chosen Google Fonts from your own web server. This will increase the loading speed and makes sure your website complies with the privacy regulations."
-msgstr ""
+msgstr "Bruk Google Fonts fra din egen webserver. Dette vil forbedre lastetiden og sørge for at nettstedet ditt er i samsvar med personvernlovgivningen"
 
 #: framework/helpers/exts-configs.php:124
 msgid "Create beautiful personalised menus that set your website apart from the others. Add icons and badges to your entries and even add Content Blocks inside your dropdowns."
-msgstr ""
+msgstr "Lag vakre, personlige menyer som skiller nettstedet ditt fra de andre. Legg til ikoner og merker på oppføringene dine, og legg til innholdsblokker i rullegardinmenyene."
 
 #: framework/premium/extensions/mega-menu/extension.php:160
 msgid "Menu Item Settings"
-msgstr ""
+msgstr "Innstillinger for menyoppføring"
