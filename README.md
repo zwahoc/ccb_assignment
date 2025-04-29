@@ -1,26 +1,26 @@
-# CCB Assignment
+# tarumtgradhub
 
-This repository contains the source files for the **CCB Assignment** project. Follow the instructions below to set up the application locally.
+This repository contains the source files for the **tarumtgradhub** project. Follow the instructions below to set up the application locally.
 
 ## Repository
 
-**GitHub:** [zwahoc/ccb_assignment](https://github.com/zwahoc/ccb_assignment)
+**GitHub:** [zwahoc/ccb_assignment](https://github.com/zwahoc/tarumtgradhub)
 
 ## Setup Instructions
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/zwahoc/ccb_assignment.git
+   git clone https://github.com/zwahoc/tarumtgradhub.git
    ```
 
 2. **Download the SQL File**
    - Obtain the SQL dump file required to initialize the database (provided in the repository or externally as shared).
 
 3. **Create the Database**
-   - Create a new MySQL database named `rds_database`.
+   - Create a new MySQL database named `tarumtgradhub`.
 
 4. **Import the SQL File**
-   - Use a tool like phpMyAdmin, MySQL Workbench, or the MySQL CLI to import the SQL file into the `rds_database`.
+   - Use a tool like phpMyAdmin, MySQL Workbench, or the MySQL CLI to import the SQL file into the `tarumtgradhub`.
 
 5. **Update Database Configuration**
    - Navigate to the cloned repository and locate the `wp_config.php` file.
@@ -29,7 +29,7 @@ This repository contains the source files for the **CCB Assignment** project. Fo
 6. **Access the Application**
    - Open a browser and visit:
      ```
-     http://localhost/ccb_assignment/wp-admin
+     http://localhost/tarumtgradhub/wp-admin
      ```
 
 7. **Login as Administrator**
@@ -42,4 +42,4 @@ This repository contains the source files for the **CCB Assignment** project. Fo
 
 ---
 
-For any issues or questions, please refer to the repository's [issues section](https://github.com/zwahoc/ccb_assignment/issues) or contact the project maintainers.
+For any issues or questions, please refer to the repository's [issues section](https://github.com/zwahoc/tarumtgradhub/issues) or contact the project maintainers.
