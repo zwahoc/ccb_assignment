@@ -4,7 +4,7 @@ This repository contains the source files for the **tarumtgradhub** project. Fol
 
 ## Repository
 
-**GitHub:** [zwahoc/ccb_assignment](https://github.com/zwahoc/tarumtgradhub)
+**GitHub:** [zwahoc/tarumtgradhub](https://github.com/zwahoc/tarumtgradhub)
 
 ## Setup Instructions
 
