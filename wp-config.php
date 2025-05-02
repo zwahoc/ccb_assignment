@@ -28,13 +28,13 @@ define( 'WPCACHEHOME', 'C:\xampp\htdocs\tarumtgradhub\wp-content\plugins\wp-supe
 define('DB_NAME', 'tarumtgradhub');
 
 /** Database username */
-define('DB_USER', 'root');
+define('DB_USER', 'admin');
 
 /** Database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'myadmin1234');
 
 /** Database hostname */
-define('DB_HOST', 'localhost:3307');
+define('DB_HOST', 'database-1.c3yu26uq0rkn.us-east-1.rds.amazonaws.com:3306');
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
