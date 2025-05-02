@@ -24,7 +24,7 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', 'C:\xampp\htdocs\tarumtgradhub\wp-content\plugins\wp-super-cache/' );
+define( 'WPCACHEHOME', 'tarumt-grad-hub-lb-1-1602337828.us-east-1.elb.amazonaws.com/tarumtgradhub/wp-content/plugins/wp-super-cache/' );
 define('DB_NAME', 'tarumtgradhub');
 
 /** Database username */
@@ -34,7 +34,7 @@ define('DB_USER', 'admin');
 define('DB_PASSWORD', 'myadmin1234');
 
 /** Database hostname */
-define('DB_HOST', 'database-1.c3yu26uq0rkn.us-east-1.rds.amazonaws.com:3306');
+define('DB_HOST', 'tarumtgradhud.ca4fcgbfjfjm.us-east-1.rds.amazonaws.com:3306');
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
